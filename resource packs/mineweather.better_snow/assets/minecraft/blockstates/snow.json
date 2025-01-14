@@ -1,0 +1,83 @@
+{
+	"variants": {
+		"layers=1": [{
+				"model": "mineweather:block/snow_height1_var0"
+			},
+			{
+				"model": "mineweather:block/snow_height1_var1"
+			},
+			{
+				"model": "mineweather:block/snow_height1_var2"
+			},
+			{
+				"model": "mineweather:block/snow_height1_var3"
+			},
+			{
+				"model": "mineweather:block/snow_height1_var4"
+			}
+		],
+		"layers=2": [{
+				"model": "mineweather:block/snow_height2_var0"
+			},
+			{
+				"model": "mineweather:block/snow_height2_var1"
+			},
+			{
+				"model": "mineweather:block/snow_height2_var2"
+			}
+		],
+		"layers=3": [{
+				"model": "mineweather:block/snow_height3_var0"
+			},
+			{
+				"model": "mineweather:block/snow_height3_var1"
+			},
+			{
+				"model": "mineweather:block/snow_height3_var2"
+			}
+		],
+		"layers=4": [{
+				"model": "mineweather:block/snow_height4_var0"
+			},
+			{
+				"model": "mineweather:block/snow_height4_var1"
+			},
+			{
+				"model": "mineweather:block/snow_height4_var2"
+			}
+		],
+		"layers=5": [{
+				"model": "mineweather:block/snow_height5_var0"
+			},
+			{
+				"model": "mineweather:block/snow_height5_var1"
+			},
+			{
+				"model": "mineweather:block/snow_height5_var2"
+			}
+		],
+		"layers=6": [{
+				"model": "mineweather:block/snow_height6_var0"
+			},
+			{
+				"model": "mineweather:block/snow_height6_var1"
+			},
+			{
+				"model": "mineweather:block/snow_height6_var2"
+			}
+		],
+		"layers=7": [{
+				"model": "mineweather:block/snow_height7_var0"
+			},
+			{
+				"model": "mineweather:block/snow_height7_var1"
+			},
+			{
+				"model": "mineweather:block/snow_height7_var2"
+			}
+		],
+		"layers=8": {
+			"model": "mineweather:block/snow_block"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"name": "mineweather.engine_test",
+	"version": "1.0.0",
+	"description": "Mineweather engine test",
+	"scripts": {
+		"build": "npx webpack",
+		"start": "cd ../dist & npm install electron & engine_test.bat",
+		"test": "npm run build & npm start"
+	},
+	"repository": {},
+	"keywords": [
+		"mineweather",
+		"weather",
+		"minecraft",
+		"mod"
+	],
+	"author": "Samu64d",
+	"license": "CC0-1.0",
+	"dependencies": {
+		"electron": "^32.1.2"
+	},
+	"devDependencies": {
+		"@types/node": "^22.7.4",
+		"ts-loader": "^9.5.1",
+		"webpack": "^5.95.0",
+		"webpack-cli": "^5.1.4"
+	}
+}

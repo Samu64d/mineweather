@@ -1,0 +1,7 @@
+{
+	"parent": "mineweather:obj/funnel/dust/base_dust",
+	"textures": {
+		"particle": "mineweather:obj/funnel/dust/dust1",
+		"texture": "mineweather:obj/funnel/dust/dust1"
+	}
+}

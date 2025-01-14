@@ -1,0 +1,7 @@
+{
+	"parent": "mineweather:particle/base_fragment",
+	"textures": {
+		"particle": "mineweather:particle/ice_pellets",
+		"fragment": "mineweather:particle/ice_pellets"
+	}
+}

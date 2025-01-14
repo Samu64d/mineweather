@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": false,
+		"baseUrl": "./",
+		"experimentalDecorators": true,
+		"forceConsistentCasingInFileNames": true,
+		"incremental": true,
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"noImplicitAny": true,
+		"noImplicitReturns": true,
+		"noImplicitThis": true,
+		"outDir": "../dist/lib",
+		"strictFunctionTypes": true,
+		"strictNullChecks": true,
+		"target": "ESNext"
+	},
+	"include": [
+		"./scripts"
+	]
+}

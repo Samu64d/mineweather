@@ -1,0 +1,154 @@
+{
+	"weather.lightning_bolt.impact": {
+		"subtitle": "subtitles.weather.lightning_bolt.impact",
+		"sounds": [{
+				"name": "mineweather:weather/lightning_bolt/impact1",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/lightning_bolt/impact2",
+				"stream": false
+			}
+		]
+	},
+	"weather.lightning_bolt.thunder": {
+		"subtitle": "subtitles.weather.lightning_bolt.thunder",
+		"sounds": [{
+				"name": "mineweather:weather/lightning_bolt/thunder1",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/lightning_bolt/thunder2",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/lightning_bolt/thunder3",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/lightning_bolt/thunder4",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/lightning_bolt/thunder5",
+				"stream": false
+			}
+		]
+	},
+	"weather.precipitation.rain": {
+		"subtitle": "subtitles.weather.precipitation.rain",
+		"sounds": [{
+				"name": "mineweather:weather/precipitation/rain/rain1",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/rain/rain2",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/rain/rain3",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/rain/rain4",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/rain/rain5",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/rain/rain6",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/rain/rain7",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/rain/rain8",
+				"stream": false
+			}
+		]
+	},
+	"weather.precipitation.hail": {
+		"subtitle": "subtitles.weather.precipitation.hail",
+		"sounds": [{
+				"name": "mineweather:weather/precipitation/hail/hail1",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/hail/hail2",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/hail/hail3",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/hail/hail4",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/hail/hail5",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/hail/hail6",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/hail/hail7",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/hail/hail8",
+				"stream": false
+			}
+		]
+	},
+	"weather.precipitation.snow": {
+		"subtitle": "subtitles.weather.lightning_bolt.snow",
+		"sounds": [{
+				"name": "mineweather:weather/precipitation/snow/snow1",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/snow/snow2",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/snow/snow3",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/snow/snow4",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/precipitation/snow/snow5",
+				"stream": false
+			}
+		]
+	},
+	"weather.wind": {
+		"subtitle": "subtitles.weather.wind",
+		"sounds": [{
+				"name": "mineweather:weather/wind/wind1",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/wind/wind2",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/wind/wind3",
+				"stream": false
+			},
+			{
+				"name": "mineweather:weather/wind/wind4",
+				"stream": false
+			}
+		]
+	}
+}

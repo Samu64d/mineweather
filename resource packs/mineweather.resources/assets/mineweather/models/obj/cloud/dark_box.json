@@ -1,0 +1,7 @@
+{
+	"parent": "mineweather:obj/cloud/box",
+	"textures": {
+		"particle": "mineweather:obj/cloud/dark",
+		"texture": "mineweather:obj/cloud/dark"
+	}
+}

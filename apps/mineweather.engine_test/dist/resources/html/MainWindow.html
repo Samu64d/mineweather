@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Mineweather engine test</title>
+	<link rel="stylesheet" href="../styles/index.css">
+	<script src="../../lib/Renderer.js"></script>
+</head>
+
+<body>
+
+	<div class="page">
+		<div class="canvas-zone">
+			<div class="canvas-container" id="canvasContainer"></div>
+			<div class="canvas-position-info" id="canvasPositionCoord"></div>
+			<div class="canvas-position-info" id="canvasPositionValue"></div>
+		</div>
+		<div class="controls-zone">
+			<div class="controls-section">
+				<div class="controls-section-title">Time</div>
+				<div class="controls-section-text" id="timeTitle">Tick: 0</div>
+				<div class="button" id="nextButton">Next</div>
+				<div class="button" id="playButton">Play</div>
+				<div class="button" id="pauseButton">Pause</div>
+			</div>
+			<div class="controls-section">
+				<div class="controls-section-title">Parameters</div>
+				<div class="button" id="irradianceButton">Irradiance</div>
+				<div class="button" id="moistureButton">Air moisture</div>
+				<div class="button button-selected" id="temperatureButton">Temperature 850hpa</div>
+				<div class="button" id="pressureButton">Pressure at 2m</div>
+				<div class="button" id="windSpeedButton">Wind speed</div>
+				<div class="button" id="windDirectionButton">Wind direction</div>
+				<div class="button" id="geopotentialButton">Geopotential at 500hpa</div>
+				<div class="button" id="precipitationsButton">Precipitations</div>
+			</div>
+			<div class="controls-section">
+				<div class="controls-section-title">Values</div>
+				<div class="controls-range-container">
+					<div class="controls-section-title">Base irradiance</div>
+					<input type="range" class="range" title="Base irradiance" value="100" min="90" max="110" step="0.01"
+						id="irradianceRange">
+					<div class="range-value" id="irradianceRangeValue">100</div>
+				</div>
+				<div class="controls-range-container"></div>
+				<div class="controls-section-title">Cyclone strength</div>
+				<input type="range" class="range" title="Cyclone strength" value="1.5" min="0.5" max="2" step="0.01"
+					id="cycloneStrengthRange">
+				<div class="range-value" id="cycloneStrengthRangeValue">1.5</div>
+			</div>
+			<div class="controls-range-container"></div>
+			<div class="controls-section-title">Anticyclone strength</div>
+			<input type="range" class="range" title="Anticyclone strength" value="1.5" min="0.5" max="2" step="0.01"
+				id="anticycloneStrengthRange">
+			<div class="range-value" id="anticycloneStrengthRangeValue">1.5</div>
+		</div>
+	</div>
+	</div>
+
+	</div>
+
+</body>
+
+</html>

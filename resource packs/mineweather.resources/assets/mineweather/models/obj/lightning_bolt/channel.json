@@ -1,0 +1,136 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "mineweather:obj/lightning_bolt/channel",
+		"texture": "mineweather:obj/lightning_bolt/channel"
+	},
+	"elements": [{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"shade": false,
+			"light_emission": 15,
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#texture"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#texture"
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#texture"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#texture"
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#texture"
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#texture"
+				}
+			}
+		},
+		{
+			"from": [3, 0, 3],
+			"to": [13, 16, 13],
+			"shade": false,
+			"light_emission": 15,
+			"faces": {
+				"north": {
+					"uv": [0, 0, 10, 16],
+					"texture": "#texture"
+				},
+				"east": {
+					"uv": [0, 0, 10, 16],
+					"texture": "#texture"
+				},
+				"south": {
+					"uv": [0, 0, 10, 16],
+					"texture": "#texture"
+				},
+				"west": {
+					"uv": [0, 0, 10, 16],
+					"texture": "#texture"
+				},
+				"up": {
+					"uv": [0, 0, 10, 10],
+					"texture": "#texture"
+				},
+				"down": {
+					"uv": [0, 0, 10, 10],
+					"texture": "#texture"
+				}
+			}
+		},
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"shade": false,
+			"light_emission": 15,
+			"faces": {
+				"north": {
+					"uv": [0, 0, 4, 16],
+					"texture": "#texture"
+				},
+				"east": {
+					"uv": [0, 0, 4, 16],
+					"texture": "#texture"
+				},
+				"south": {
+					"uv": [0, 0, 4, 16],
+					"texture": "#texture"
+				},
+				"west": {
+					"uv": [0, 0, 4, 16],
+					"texture": "#texture"
+				},
+				"up": {
+					"uv": [0, 0, 4, 4],
+					"texture": "#texture"
+				},
+				"down": {
+					"uv": [0, 0, 4, 4],
+					"texture": "#texture"
+				}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"shade": false,
+			"light_emission": 15,
+			"faces": {
+				"north": {
+					"uv": [0, 0, 2, 16],
+					"texture": "#texture"
+				},
+				"east": {
+					"uv": [0, 0, 2, 16],
+					"texture": "#texture"
+				},
+				"south": {
+					"uv": [0, 0, 2, 16],
+					"texture": "#texture"
+				},
+				"west": {
+					"uv": [0, 0, 2, 16],
+					"texture": "#texture"
+				},
+				"up": {
+					"uv": [0, 0, 2, 2],
+					"texture": "#texture"
+				},
+				"down": {
+					"uv": [0, 0, 2, 2],
+					"texture": "#texture"
+				}
+			}
+		}
+	]
+}

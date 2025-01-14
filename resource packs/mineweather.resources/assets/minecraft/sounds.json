@@ -1,0 +1,22 @@
+{
+	"weather.rain": {
+		"replace": true,
+		"subtitle": "",
+		"sounds": []
+	},
+	"weather.rain.above": {
+		"replace": true,
+		"subtitle": "",
+		"sounds": []
+	},
+	"entity.lightning_bolt.impact": {
+		"replace": true,
+		"subtitle": "",
+		"sounds": []
+	},
+	"entity.lightning_bolt.thunder": {
+		"replace": true,
+		"subtitle": "",
+		"sounds": []
+	}
+}

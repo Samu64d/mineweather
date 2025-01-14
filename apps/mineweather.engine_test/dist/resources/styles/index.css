@@ -1,0 +1,151 @@
+/*
+	index.css
+*/
+
+* {
+	box-sizing: content-box;
+}
+
+html {
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	white-space: nowrap;
+	margin: 0 auto;
+	font-family: "Segoe UI";
+	user-select: none;
+	cursor: default;
+}
+
+@font-face {
+	font-family: Segoe MDL2;
+	src: url("./fonts/mdl2.woff");
+}
+
+@keyframes backdrop-blur {
+	0% {
+		backdrop-filter: blur(5px);
+	}
+
+	100% {
+		backdrop-filter: blur(4.99px);
+	}
+}
+
+.page {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.canvas-zone {
+	position: relative;
+	height: 100%;
+	width: 50%;
+	background: rgb(255, 255, 255);
+	overflow: hidden;
+	float: left;
+}
+
+.canvas-container {
+	display: flex;
+	position: relative;
+	height: 80%;
+	width: 100%;
+	justify-content: center;
+}
+
+.canvas {
+	position: relative;
+	margin: auto;
+	width: 99%;
+	height: 99%;
+	border: 1px solid #000000;
+	image-rendering: pixelated;
+}
+
+.canvas-position-info {
+	height: auto;
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+
+.controls-zone {
+	position: relative;
+	height: 100%;
+	width: 50%;
+	font-weight: 300;
+	background: rgb(218, 218, 218);
+	float: left;
+	overflow: hidden;
+}
+
+.controls-section {
+	position: relative;
+	height: auto;
+	width: 100%;
+	padding: 5px;
+	float: left;
+}
+
+.controls-section-title {
+	position: relative;
+	height: auto;
+	width: 100%;
+	font-size: 22px;
+	padding: 14px;
+	float: left;
+}
+
+.controls-section-text {
+	position: relative;
+	height: 20px;
+	width: 100%;
+	font-size: 16px;
+	padding: 16px;
+	float: left;
+}
+
+.button {
+	height: 32px;
+	width: auto;
+	min-width: 70px;
+	background: rgb(241, 241, 241);
+	color: #000000;
+	float: left;
+	overflow: hidden;
+	text-align: center;
+	line-height: 32px;
+	vertical-align: middle;
+	margin: 10px;
+	padding: 0px 8px 0px 8px;
+}
+
+.button-selected {
+	background: rgb(201, 201, 201);
+}
+
+.button:hover {
+	background: rgb(78, 78, 78);
+}
+
+.button:active {
+	background: rgb(168, 168, 168);
+}
+
+.range {
+	margin: 10px;
+	float: left;
+}
+
+.range-value {
+	height: auto;
+	width: auto;
+	float: left;
+}

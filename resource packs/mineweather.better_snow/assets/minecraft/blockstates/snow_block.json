@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "mineweather:block/snow_block"
+		}
+	}
+}

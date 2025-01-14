@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "mineweather:obj/sky_box/dark_box"
+	}
+}

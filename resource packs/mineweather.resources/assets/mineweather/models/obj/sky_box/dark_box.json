@@ -1,0 +1,8 @@
+{
+	"parent": "mineweather:obj/sky_box/box",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "mineweather:obj/sky_box/body",
+		"texture": "mineweather:obj/sky_box/body"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "mineweather:particle/base_fragment",
+	"textures": {
+		"particle": "mineweather:particle/graupel",
+		"fragment": "mineweather:particle/graupel"
+	}
+}
