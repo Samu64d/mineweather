@@ -3,7 +3,7 @@
 Comming soon
 
 Dependencies:
-stdmodulesyste (https://github.com/Samu64d/stdmodulesystem)
+stdmodulesystem (https://github.com/Samu64d/stdmodulesystem)
 
 ## Sounds sources
 
